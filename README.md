@@ -36,7 +36,7 @@ If the site is to be in a role of "Publisher", enable "Site Studio ContentHub Pu
 ```
 drush pm-enable sitestudio_contenthub_publisher -y
 ```
-If the site is to be in a role of "Subscriber", enable "Site Studio ContentHub Publisher" via Drupal UI or via Drush:
+If the site is to be in a role of "Subscriber", enable "Site Studio ContentHub Subscriber" via Drupal UI or via Drush:
 ```
 drush pm-enable sitestudio_contenthub_subscriber -y
 ```
